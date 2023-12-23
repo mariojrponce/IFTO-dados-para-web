@@ -1,0 +1,3 @@
+Continue o código da aula, acrescente as tags <data> e <hora> no momento de inserir uma nova <nota>. A data e a hora devem ser pegas do sistema no lado do servidor, não é o usuário que informa.
+
+Faça o relatório, que deve mostrar todas as notas na tabela no lado do cliente, os dados devem ser solicitados de forma assíncrona no evento onload e após cada cadastro de uma nova <nota>.

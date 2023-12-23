@@ -1,0 +1,20 @@
+<notas>
+    <nota>
+        <de>Jose</de>
+        <para>Maria</para>
+        <cabecalho>Declaração</cabecalho>
+        <corpo>Hoje lembrei de você</corpo>
+    </nota>
+    <nota>
+        <de>Carlos</de>
+        <para>Tiago</para>
+        <cabecalho>Lembrete</cabecalho>
+        <corpo>Lembrar de comprar leite</corpo>
+    </nota>
+    <nota>
+        <de>Pedro</de>
+        <para>Ana</para>
+        <cabecalho>Lembrete</cabecalho>
+        <corpo>Passar no escritorio ainda hoje</corpo>
+    </nota>
+</notas>

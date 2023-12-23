@@ -1,0 +1,11 @@
+Escreva um sistema para fazer CRUD de uma "nota".
+
+A nota deve conter: de, para, cabeçalho, descrição e data da criação.
+
+Todos os dados trafegados entre o cliente (navegador) e o servidor devem estar em formato JSON.
+
+No Servidor armazene os dados em um banco de dados relacional. 
+
+Utilize DataSorce e pool de conexões.
+
+Utilize o padrão de projetos DAO.

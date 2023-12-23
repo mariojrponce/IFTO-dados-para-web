@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crud das Notas</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+<form>
+    <fieldset id="campoAutores">
+        <legend>
+            Autor
+        </legend>
+        <input type="button" id="btAutores" value="+">
+        <div id="divAutores">
+            <input type="text" class="autor" placeholder="autor">
+        </div>
+    </fieldset>
+
+    <label>Titulo
+        <input type="text" id="titulo" placeholder="titulo">
+    </label>
+
+
+    <label>Ano
+        <input type="text" id="ano" placeholder="ano">
+    </label>
+    <label>Preco
+        <input type="text" id="preco" placeholder="preco">
+    </label>
+    <label>Categoria
+        <input type="text" id="categoria" placeholder="categoria">
+    </label>
+    <input type="submit" value="Cadastrar" id="btCadastrar">
+
+</form>
+
+<table>
+    <thead>
+    <tr>
+        <th>Titulo</th>
+        <th>Autor</th>
+        <th>Ano</th>
+        <th>Preço</th>
+        <th>Categoria</th>
+    </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+<script src="codigo.js"></script>
+</body>
+</html>

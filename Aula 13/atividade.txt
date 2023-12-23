@@ -1,0 +1,1 @@
+Escrever um documento explicando passo a passo como configurar o datasource e pool de conexões e como utilizá-lo no projeto web. O documento deve incluir textos explicativos e prints do que você fez. Inclua, inclusive, os erros e como foram solucionados.

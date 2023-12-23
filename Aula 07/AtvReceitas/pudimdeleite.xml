@@ -1,0 +1,20 @@
+<receita>
+	<nome>Pudim de Leite Condensado</nome>
+	<ingredientes>
+		<ingrediente>Leite condensado</ingrediente>
+		<ingrediente>Leite</ingrediente>
+		<ingrediente>Ovos</ingrediente>
+		<ingrediente>Açucar</ingrediente>
+		<ingrediente>Água</ingrediente>
+	</ingredientes>
+	<modoPreparo>
+		<passo>Bata os ovos no liquidificador</passo>
+		<passo>Acrescente o leite condensado e bata novamente</passo>
+		<passo>Derreta o açucar na panela ate ficar moreno</passo>
+		<passo>Acrescente água e deixe engrossar</passo>
+		<passo>Coloque tudo em uma forma e leve ao forno em banho maria</passo>
+	</modoPreparo>
+	<ilustracao>
+		<foto>pudim.png</foto>
+	</ilustracao>
+</receita>

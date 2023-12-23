@@ -1,0 +1,28 @@
+<receita>
+	<nome>Estrogonofe de Carne</nome>
+	<ingredientes>
+		<ingrediente>Carne (coxão mole, patinho ou filé)</ingrediente>
+		<ingrediente>Cebola</ingrediente>
+		<ingrediente>Margarina</ingrediente>
+		<ingrediente>Mostarda</ingrediente>
+		<ingrediente>Extrato de tomate</ingrediente>
+		<ingrediente>Tomate</ingrediente>
+		<ingrediente>Pimentão</ingrediente>
+		<ingrediente>Ketchup</ingrediente>
+		<ingrediente>Sal</ingrediente>
+		<ingrediente>Champignon</ingrediente>
+		<ingrediente>Creme de leite</ingrediente>
+	</ingredientes>
+	<modoPreparo>
+		<passo>Frite a carne temperada</passo>
+		<passo>Separe a carne frita</passo>
+		<passo>Frite a cebola com margarina, junte o tomate e pimentão, acrescente água</passo>
+		<passo>Junte a carne com o molho</passo>
+		<passo>Acrescente extrato de tomate, ketchup, mostarda e champignon</passo>
+		<passo>Depois de refogado, desligue o fogo e acrescente o creme de leite</passo>
+	</modoPreparo>
+	<ilustracao>
+		<foto>estrogonofe.png</foto>
+		<foto>pratodeestrogofe.png</foto>
+	</ilustracao>
+</receita>

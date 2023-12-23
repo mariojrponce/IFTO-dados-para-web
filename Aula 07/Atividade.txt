@@ -1,0 +1,5 @@
+Escreva uma página Web que seja um site de receitas, um site de receitas normal com tags html e estilo css. Na barra de menu (nav) deve existir links que quando clicados devem mostrar as receitas na parte principal (main) da página.
+
+Os links que serão mostrados na barra de navegação estão no arquivo "receitas.xml", este arquivo deve ser solicitado de forma assíncrona no evento onload do navegador. Para cada "item" do arquivo deve ser criado um link de forma dinâmica.
+
+Quando algum link for clicado deve ser feito uma requisição assíncrona solicitando o arquivo correspondente ao link, e na parte principal da página deve ser mostrado uma receita, com seu título, lista de ingredientes, modo de preparo e suas respectivas imagens.

@@ -1,0 +1,11 @@
+form,table,th,td{
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+form{
+    padding: 5px;
+}
+form input[text],input.autor{
+    width: 300px;
+    margin: 5px;
+}

@@ -1,0 +1,26 @@
+<receita>
+	<nome>Torta de Frango</nome>
+	<ingredientes>
+		<ingrediente>Peito de frango</ingrediente>
+		<ingrediente>Tempero</ingrediente>
+		<ingrediente>Tomate</ingrediente>
+		<ingrediente>Ervilha</ingrediente>
+		<ingrediente>Leite</ingrediente>
+		<ingrediente>Farinha de Trigo</ingrediente>
+		<ingrediente>Ovos</ingrediente>
+		<ingrediente>Fermento</ingrediente>
+	</ingredientes>
+	<modoPreparo>
+		<passo>Cozinhe o peito de frango com o tempero</passo>
+		<passo>Acrescente a ervilha</passo>
+		<passo>Deixe cozinhar ate secar</passo>
+		<passo>Bata o leite, ovos e farinha no liquidificador</passo>
+		<passo>Coloque a massa em uma forma untada</passo>
+		<passo>Coloque o frango na forma</passo>
+		<passo>Leve ao forno até dourar</passo>
+	</modoPreparo>
+	<ilustracao>
+		<foto>peitoDeFrango.png</foto>
+		<foto>tortaDeFrango.png</foto>
+	</ilustracao>
+</receita>

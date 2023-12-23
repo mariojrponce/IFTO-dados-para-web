@@ -1,0 +1,11 @@
+Continue o código feito em sala de aula e acrescente as funcionalidades de:
+
+Acrescentar a categoria como um atributo do "livro"
+A categoria, no código XML, deve ser um atributo do livro. Refazer a funcionalidade de "inserir" para permitir adicionar a categoria do "livro". As categorias permitidas são: romance, ficção, comédia, terror e científico.
+Insira uma caixa de combinação na interface com as opções permitidas para que o usuário possa escolher uma das categorias para o livro sem a necessidade de digitar.
+Mostrar relatório pesquisando por "categoria"
+No código HTML acrescente uma caixa de texto e um botão que quando clicado deve pesquisar todos os livros pela categoria informada na caixa de texto e mostrá-los na tabela HTML.
+Mostrar relatório pesquisando pelo "autor";
+No código HTML acrescente uma caixa de texto e um botão que quando clicado deve pesquisar todos os livros pelo nome do autor informado na caixa de texto e mostrá-los na tabela HTML.
+Mostrar relatório pesquisando pelo "ano";
+No código HTML acrescente dois botões de rádio com os rótulos: "maior que" e "menor que", uma caixa de texto e um botão, quando o botão for clicado deve pesquisar todos os livros a partir da data informada na caixa de texto e respeitando a escolha dos botões de rádio e mostrá-los na tabela HTML.

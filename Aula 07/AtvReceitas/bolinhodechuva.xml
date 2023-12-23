@@ -1,0 +1,21 @@
+<receita>
+	<nome>Bolinho de Chuva</nome>
+	<ingredientes>
+		<ingrediente>Ovo</ingrediente>
+		<ingrediente>Leite</ingrediente>
+		<ingrediente>Fermento em pó</ingrediente>
+		<ingrediente>Canela em pó</ingrediente>
+		<ingrediente>Açúcar</ingrediente>
+        <ingrediente>Farinha de trigo</ingrediente>
+        <ingrediente>Óleo</ingrediente>
+	</ingredientes>
+	<modoPreparo>
+		<passo>Misture todos os ingredientes</passo>
+		<passo>Aqueça o óleo</passo>
+		<passo>Coloque uma colher da massa no óleo quente</passo>
+        <passo>Após fritar passe no açucar com canela</passo>
+	</modoPreparo>
+	<ilustracao>
+		<foto>bolinhodechuva.png</foto>
+	</ilustracao>
+</receita>

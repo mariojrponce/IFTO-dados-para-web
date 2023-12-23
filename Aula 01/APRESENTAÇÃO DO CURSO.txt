@@ -1,0 +1,49 @@
+Apresentação do Curso
+Disciplina: Gerenciamento de Dados para Web
+Carga Horária: 60h presencial + 12h distância
+
+
+Professor: Vinícius Oliveira Costa
+
+e-mail: vinicius@ifto.edu.br
+
+Material das aulas: http://professorvinicius.com.br
+
+Playlist de vídeo aulas gravadas: Playlist
+
+
+Conteúdo
+XML
+
+JavaScript
+
+Java
+
+JSON
+
+JavaScript
+
+Java
+
+Transferência de dados entre cliente e servidor
+
+JDBC e DAO
+Bibliografia
+Livro
+
+Veloso, Renê Rodrigues. Java e XML: Processamento de documentos XML com Java, 2ª Edição. Novatec, 2007
+
+Silva Filho, Antônio Mendes da. Programando com XML. Rio de Janeiro: Elsevier, 2004.
+
+Smith, Ben. JSON Básico: Conheça o Formato de Dado Preferidos da Web. São Paulo: Novatec, 2015
+
+Site
+
+www.w3schools.com/xml
+
+developer.mozilla.org
+
+Avaliação e Frequência
+De 8 a 10 trabalhos valendo nota (Para aprovação 60%)
+
+Será feito duas chamadas por aula, a primeira as 19h10min e a segunda as 22h20min (no mínimo 75% de frequência  para aprovação).

@@ -1,0 +1,20 @@
+<receita>
+	<nome>Bolo de Milho sem Farinha</nome>
+	<ingredientes>
+		<ingrediente>Milho</ingrediente>
+		<ingrediente>Ovos</ingrediente>
+		<ingrediente>Leite de coco</ingrediente>
+		<ingrediente>Coco ralado</ingrediente>
+		<ingrediente>Creme de leite</ingrediente>
+	</ingredientes>
+	<modoPreparo>
+		<passo>Bata tudo no liquidificador até ficar homogêneo</passo>
+		<passo>Coloque a massa em uma forma untada e leve ao forno ate dourar</passo>
+		<passo>Sirva com leite</passo>
+	</modoPreparo>
+	<ilustracao>
+		<foto>milho.png</foto>
+		<foto>boloDeMilho.png</foto>
+		<foto>fatiaDeBolo.png</foto>
+	</ilustracao>
+</receita>
